@@ -1,0 +1,7 @@
+{
+  "name": "QuantumEcho",
+  "description": "An interactive 3D particle cloud powered by GPGPU and webcam luminance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
